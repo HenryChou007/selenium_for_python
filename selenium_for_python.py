@@ -140,6 +140,7 @@ for user in user_list:
         sleep(random.randint(5, 15))
         browser.quit()
 
+    # sleep for random second 
     sleep(random.randint(3, 6))
 
 
